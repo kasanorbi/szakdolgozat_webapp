@@ -1,0 +1,25 @@
+{
+  "name": "forntend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.3.6",
+    "chart.js": "^4.4.5",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vue3-toastify": "^0.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.11",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^4.1.4"
+  }
+}
